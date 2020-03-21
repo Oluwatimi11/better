@@ -1,0 +1,56 @@
+body {
+    background-color: skyblue;
+    color: rgb(26, 49, 97);
+    padding: 10px;
+}
+
+.name {
+    color: rgb(194, 115, 194);
+    background-color: slateblue;
+    font-family: sans-serif; 
+    font-weight: bold;
+    font-size: 40px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+#Success {
+    font-family: serif;
+    font-style: italic;
+    font-size: 35px;
+    padding: 10px;
+
+}
+
+.Mine {
+    background-color: slateblue;
+    font-style: italic;
+    font-family: sans-serif;
+    padding: 15px;
+    color: rgb(235, 53, 201);
+}
+
+p {
+    border: 5px teal dashed;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.list {
+    border: 4px teal solid;
+   
+}
+
+li{
+    padding-left: 20px;
+    padding-right: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+   
+}
+
+.link{
+    color: teal;
+    font-style: underline;
+}
